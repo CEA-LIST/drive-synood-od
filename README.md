@@ -2,6 +2,8 @@
 
 **A Diffusion-Inpainted Synthetic Out-of-Distribution Object Detection Benchmark for Autonomous Driving.**
 
+**Project page:** [cea-list.github.io/drive-synood-od](https://cea-list.github.io/drive-synood-od/)
+
 ![Drive-SynOOD-OD examples: one inpainted OOD object per class in real BDD100K scenes, with ground-truth boxes](assets/teaser.jpg)
 
 *One example per OOD class, inserted into real BDD100K validation scenes by diffusion inpainting, across placement
